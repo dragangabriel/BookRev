@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.react-native-community:cameraview-d529251d24c0a367a28eea28f0eac2269d12f772">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar/ddab7ff12615cf473bad75dfd4e0b630/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar/ddab7ff12615cf473bad75dfd4e0b630/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

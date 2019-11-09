@@ -1,0 +1,340 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-admob] C:\Users\Gabriel\BookRev\node_modules\react-native-admob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:2:1-20:12
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\427f23d02322f4ae0881d6053f3936cf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:exifinterface:28.0.0-alpha1] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0-alpha1.aar\dfe2e84b44fac6ef6417517535d142af\AndroidManifest.xml:17:1-23:12
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:14:1-30:12
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.0.aar\c064728c85638941706b67807316fe10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\286f5af10f1b3b01493d4a6b1331f9cd\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cb2afb30101318bfc7d4a674556ec03d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\18171430e4ed640297072f55c468ba50\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\73e953366257667b5e647ba417cc0883\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\8f15d6d9b931de4b5aff7b6c685eabf6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\ceb835401704567641a6e32f238114ba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0802dd4dbf8ea196bb5da9abce02633d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9c22e329a20101e9f7d174e3a69e2b27\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:2:5-26
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-65
+MERGED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:11:5-65
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:21:5-65
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:6:22-62
+application
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\AndroidManifest.xml:7:5-20
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:28:5-20
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\73e953366257667b5e647ba417cc0883\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\73e953366257667b5e647ba417cc0883\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:10:7-39
+	android:icon
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:11:7-41
+	android:allowBackup
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:9:7-38
+activity#com.bookrev.MainActivity
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:15:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-admob] C:\Users\Gabriel\BookRev\node_modules\react-native-admob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-admob] C:\Users\Gabriel\BookRev\node_modules\react-native-admob\android\build\intermediates\manifests\full\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.54.4] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\427f23d02322f4ae0881d6053f3936cf\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\427f23d02322f4ae0881d6053f3936cf\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:exifinterface:28.0.0-alpha1] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0-alpha1.aar\dfe2e84b44fac6ef6417517535d142af\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:exifinterface:28.0.0-alpha1] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0-alpha1.aar\dfe2e84b44fac6ef6417517535d142af\AndroidManifest.xml:21:5-44
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:17:5-19:41
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:17:5-19:41
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.0.aar\c064728c85638941706b67807316fe10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.0.aar\c064728c85638941706b67807316fe10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\286f5af10f1b3b01493d4a6b1331f9cd\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\286f5af10f1b3b01493d4a6b1331f9cd\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cb2afb30101318bfc7d4a674556ec03d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cb2afb30101318bfc7d4a674556ec03d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\18171430e4ed640297072f55c468ba50\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\18171430e4ed640297072f55c468ba50\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\AndroidManifest.xml:2:3-70
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\8f15d6d9b931de4b5aff7b6c685eabf6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\8f15d6d9b931de4b5aff7b6c685eabf6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\ceb835401704567641a6e32f238114ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\ceb835401704567641a6e32f238114ba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0802dd4dbf8ea196bb5da9abce02633d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0802dd4dbf8ea196bb5da9abce02633d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9c22e329a20101e9f7d174e3a69e2b27\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9c22e329a20101e9f7d174e3a69e2b27\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:13:5-15:36
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:23:5-60
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:23:5-60
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:15:9-33
+		MERGED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:13:5-15:36
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:14:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:16:5-18:36
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:24:5-26:36
+MERGED from [com.github.react-native-community:cameraview:d529251d24c0a367a28eea28f0eac2269d12f772] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:18:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\manifests\full\release\AndroidManifest.xml:17:9-57
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\AndroidManifest.xml:30:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Gabriel\BookRev\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\AndroidManifest.xml:26:13-58

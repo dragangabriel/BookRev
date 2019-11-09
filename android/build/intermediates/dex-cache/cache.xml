@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cb2afb30101318bfc7d4a674556ec03d\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="193271479d2fe696fdd2ed0cb8a1ecd95b55353e">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0802dd4dbf8ea196bb5da9abce02633d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\8f15d6d9b931de4b5aff7b6c685eabf6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\7d9a0a6313b701e6f6c783de614663e9\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aff74684c30003deab6ef51945010c9b595bf238">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28393911fbd5429c58a538283a2ec4797d71f5ee">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49e759d40ca147d11663ed9fe28d404133b4c7df">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\BookRev\node_modules\react-native-admob\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3cac0ef87310c8f1276190c4897c8718ccfabcb7">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\18171430e4ed640297072f55c468ba50\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\1e3bae7ff3927b6e3448c9ba280d109d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\ceb835401704567641a6e32f238114ba\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cfba17aa295a3dc53ad710da12d2e8d43092a3b">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\6b2bde4ba166ea61ffda2bc7f787f255\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.0.aar\c064728c85638941706b67807316fe10\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce55e4bc271694cd4ecce470e412a88b98f26fda">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e64d3bd4020c2600a42923c3b493bbb2e81f1211">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\8d69617296a0cff34501146ca7d3e0b9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a38a8974c8d066800237d22a86df2e88cb9e065c">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\BookRev\node_modules\react-native-camera\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aff74684c30003deab6ef51945010c9b595bf238">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\427f23d02322f4ae0881d6053f3936cf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="495e52b8474a67d5eba112159baf71e981438db3">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.0\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c69b84900f7cf1e2412606e4de1d8a18f490c514">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.0.aar\c60cee039fd7bf34e2e4cc3fc1342e22\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28393911fbd5429c58a538283a2ec4797d71f5ee">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0165a9fb28c8333504f837916f8b32c1ee38afca">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0802dd4dbf8ea196bb5da9abce02633d\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcdf86a63bd1e6bd5126af644627657527e0d6">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\6416ab31b044ff352a10c97ded8da218\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed8395f343c428cd55c60499f04323083f4ef0db">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\80ed455c630314372920249d73c27316\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cfba17aa295a3dc53ad710da12d2e8d43092a3b">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="939901599f65367c90fcfc50ccc4bf1cc398c9f9">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\18171430e4ed640297072f55c468ba50\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\e420e253a840690712cb5662c765b8cc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\exifinterface-28.0.0-alpha1.aar\dfe2e84b44fac6ef6417517535d142af\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76de56b9d548911f48a6b2684adbbb8d46fdd0ce">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9c22e329a20101e9f7d174e3a69e2b27\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\ceb835401704567641a6e32f238114ba\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\d2cbf079066d996e5c2f4f21970bc581\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5824717818f7ac8bd17b200b1b182c0313740c60">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9236445249b688377917bbf182bb651ba5a9c5f1">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0-alpha1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-28.0.0-alpha1.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-auth-15.0.0.aar\ea669ce08903ad5a1cc00c082f3338f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e60bdb9e35afea4d70bd6772fd7cc19ad9b4c437">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\BookRev\node_modules\react-native-admob\android\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3cac0ef87310c8f1276190c4897c8718ccfabcb7">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\03dc412ab17021657153c5faaa9a94b4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63762d99e25ebfd92f60558dcef8aef334cc6dd3">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\286f5af10f1b3b01493d4a6b1331f9cd\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dac4d691cb4ccec0ea3e0463e58986e0ce6af425">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\f2159e33e9c367c5d69b9e6a5f424186\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9b46a0c896890f821e91671ce8bee184\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-15.0.0.aar\1772a46fdf0dc5302ac0cc3453c94856\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="529349809e1bca07903c3a556514fb199ea6cfc3">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b683125c9eaedd35af5c5324cf33131a3801d1f">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-gass-15.0.0.aar\9cff40fcb669bc7907476c3ed4df2c0b\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="193271479d2fe696fdd2ed0cb8a1ecd95b55353e">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38d065c5214fa59d69172db23d6dc9f40240a26e">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\8f15d6d9b931de4b5aff7b6c685eabf6\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9c22e329a20101e9f7d174e3a69e2b27\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.0.aar\9b1c70ec69c644c9dfa262122248811e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dac4d691cb4ccec0ea3e0463e58986e0ce6af425">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-15.0.0.aar\427f23d02322f4ae0881d6053f3936cf\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="495e52b8474a67d5eba112159baf71e981438db3">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\939a87334f057d2f96d0f638f65db5d2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\cameraview-d529251d24c0a367a28eea28f0eac2269d12f772.aar\cfb9e4358b013d5796eca7a5e8497564\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e64d3bd4020c2600a42923c3b493bbb2e81f1211">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.0.aar\a49b964418a8d3caea8de7ab8f6d29dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="38d065c5214fa59d69172db23d6dc9f40240a26e">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-15.0.0.aar\54a694d44c89c7d8a0ce9aac02f50103\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="939901599f65367c90fcfc50ccc4bf1cc398c9f9">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\8f3795c454efa26499a7dd51c5d3f03c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b683125c9eaedd35af5c5324cf33131a3801d1f">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-15.0.0.aar\01360d28b5c4e9ef0ed1ca5d3e338d6e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e02a668d3877c9190f897b305f8b94d88de5fd6">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.0.aar\c792bd2018381a5c84c56c0187b6d57b\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcdf86a63bd1e6bd5126af644627657527e0d6">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.0.aar\0e43e751dd10af1f0889ca9c54a6c09a\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0165a9fb28c8333504f837916f8b32c1ee38afca">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.0.aar\4fe0a51d5d12a9324bbecdd46644cf13\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c69b84900f7cf1e2412606e4de1d8a18f490c514">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\react-native-0.54.4.aar\c30fe758f97d245880579f8ec9d4c8f8\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3e45b9f56efa62999300f5d7f00cb29a\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\18c0c1545e2e2581e03734d11dfbfea6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="22569eca3029ab00583c332a2be220cdbf091b35">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\286f5af10f1b3b01493d4a6b1331f9cd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c9d54e61824eeaa72ce83b5c3f4a4c1c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\4d42c5d41777d2106d56c9392d9d2537\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\401fb64a73136d17da434b6e820c6136\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.0.aar\c064728c85638941706b67807316fe10\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ce55e4bc271694cd4ecce470e412a88b98f26fda">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-15.0.0.aar\125bb21bb2cf234e05f793c86188c98b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="49e759d40ca147d11663ed9fe28d404133b4c7df">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\1dec18e19c890948c68b6830af533765\jars\classes.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\cb2afb30101318bfc7d4a674556ec03d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-vision-10.2.0.aar\1f6a8f574fd32ed61ecd67604cc53462\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\606e8fe7c2c2fb22da8545673ce9e9fe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba42e6949397668e88ea3d2b188078ddf0143813">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="true"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Gabriel\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\356de968ab8bc5e9ab4ae101bd0adab3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\Gabriel\BookRev\android\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+
+</items>
